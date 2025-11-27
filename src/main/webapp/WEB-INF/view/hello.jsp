@@ -5,7 +5,7 @@
     <title>Document</title>
 </head>
 <body>
-    Hello JSPPPPPPPPPPPPPPP
-    ${eric}
+    <h1>Hello JSPPPPPPP</h1>
+    <h2>${eric}</h2>
 </body>
 </html>
